@@ -8,7 +8,7 @@ ACTIVIDAD DE ARCHIVO CON PREGUNTAS
     Son archivos preparados.
 4. ¿Qué es un commit?
     Guarda cualquier cambio hecho a un archivo.
-5. ¿Qupe comando utilizo paa agregar archivos modificados al stating area?
+5. ¿Qué comando utilizo paa agregar archivos modificados al stating area?
     git add -A
 6. ¿Qué comando utilizo para agregar archivos preparados al repositorio?
     git commit.
